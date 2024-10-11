@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: 'Times New Roman', Times, serif
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
