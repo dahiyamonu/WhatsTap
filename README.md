@@ -1,15 +1,8 @@
 # WhatsTap
 
 WhatsTap is an open-source project built with React that simplifies starting conversations on WhatsApp.  
-It allows users to initiate chats without saving a contact's number to their phone.  
-With a simple interface, users can enter a phone number directly into the app.  
-After clicking "chat," they are taken straight to the WhatsApp chat window.  
-This eliminates the hassle of adding numbers to the contacts list.  
-Additionally, WhatsTap enables users to save contacts in their browser's local storage.  
-This feature helps users manage frequently contacted numbers conveniently.  
-The latest update introduces a QR code generator.  
-Users can scan the generated QR code for instant chat access.  
-Overall, WhatsTap enhances the WhatsApp experience by making communication easier and more efficient.
+It allows users to initiate chats without saving a contact's number to their phone. With a simple interface, users can enter a phone number directly into the app. After clicking "chat," they are taken straight to the WhatsApp chat window. This eliminates the hassle of adding numbers to the contacts list. Additionally, WhatsTap enables users to save contacts in their browser's local storage. This feature helps users manage frequently contacted numbers conveniently. The latest update introduces a QR code generator. Users can scan the generated QR code for instant chat access. Overall, WhatsTap enhances the WhatsApp experience by making communication easier and more efficient.
+
 # Images of Site
 
 ## Home page
